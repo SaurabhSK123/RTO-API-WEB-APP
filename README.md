@@ -7,6 +7,12 @@ ocr tool which has some pre-created models help to reconize the exact numbers on
 After Recongnizing the exact number of the car it will go to RTO API server and Retrieve all 
 information and details about the car like car description and all..
 
+
+In Prediction.py file line no. 43 we have to give the proper username instead of the {username} according 
+your registration in the api server 
+Link of that api server👇👇
+
+
 For This Task I use Flask Framework. 
 
 Here is the Task Description 📄
